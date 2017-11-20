@@ -1,0 +1,78 @@
+[
+  [
+    {
+      "Level": 0,
+      "Parent": "This is a dummy root that connects all forest roots",
+      "Confidence": 99.99999237060547,
+      "Prediction": 5,
+      "Concept": "几何初步知识"
+    },
+    {
+      "Level": 1,
+      "Parent": "几何初步知识",
+      "Confidence": 84.13158416748047,
+      "Prediction": 35,
+      "Concept": "图案设计"
+    },
+    {
+      "Level": 2,
+      "Parent": "图案设计",
+      "Confidence": 87.800537109375,
+      "Prediction": 341,
+      "Concept": "画立体图形"
+    },
+    {
+      "Level": 3,
+      "Parent": "画立体图形",
+      "Confidence": 64.49047088623047,
+      "Prediction": 877,
+      "Concept": "画立体图形的三视图"
+    }
+  ],
+  [
+    {
+      "Level": 0,
+      "Parent": "This is a dummy root that connects all forest roots",
+      "Confidence": 99.99999237060547,
+      "Prediction": 5,
+      "Concept": "几何初步知识"
+    },
+    {
+      "Level": 1,
+      "Parent": "几何初步知识",
+      "Confidence": 84.13158416748047,
+      "Prediction": 35,
+      "Concept": "图案设计"
+    },
+    {
+      "Level": 2,
+      "Parent": "图案设计",
+      "Confidence": 87.800537109375,
+      "Prediction": 341,
+      "Concept": "画立体图形"
+    },
+    {
+      "Level": 3,
+      "Parent": "画立体图形",
+      "Confidence": 20.73845672607422,
+      "Prediction": 879,
+      "Concept": "三视图的作用"
+    }
+  ],
+  [
+    {
+      "Level": 0,
+      "Parent": "This is a dummy root that connects all forest roots",
+      "Confidence": 99.99999237060547,
+      "Prediction": 5,
+      "Concept": "几何初步知识"
+    },
+    {
+      "Level": 1,
+      "Parent": "几何初步知识",
+      "Confidence": 15.515926361083984,
+      "Prediction": 33,
+      "Concept": "图形的初步认识"
+    }
+  ]
+]
